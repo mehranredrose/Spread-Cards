@@ -5,5 +5,5 @@ Spread the cards with different values between two people so that the least diff
 
 User enters many values of cards and the program calculate them and Show the result Graphical.
 
-I used Pygame library in this Program :)
+I used Python and Pygame library in this Program :)
 
