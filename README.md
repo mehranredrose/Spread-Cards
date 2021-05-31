@@ -1,5 +1,5 @@
 # Spread-Cards
-It's my Second Final Project of Algorythm Design Course.
+It's my Second Final Project of Algorithm Design Course.
 
 Explaning Project :
 Spread the cards with different values between two people so that the least difference in value between their cards.
